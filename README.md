@@ -1,6 +1,6 @@
 # python-for-fun
 
-Little games implemented by python3.
+Little games implemented by python.
 
 * Tic-Tac-Toe
 
