@@ -1,2 +1,8 @@
 # python-for-fun
-Some little interesting programs here
+
+Little games implemented by python3.
+
+* Tic-Tac-Toe
+
+* 2048
+
